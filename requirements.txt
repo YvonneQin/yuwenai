@@ -1,0 +1,10 @@
+flask
+openai
+torch
+transformers
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+faiss-cpu
+beautifulsoup4
